@@ -30,7 +30,7 @@ MySQL 성능 최적화와 데이터베이스 설계를 목표로 진행하는 �
 ---
 
 ## 📚 참고 자료
-- [Real MySQL 도서 링크](https://book.naver.com/bookdb/book_detail.nhn?bid=...)
+- [Real MySQL 도서 링크](https://product.kyobobook.co.kr/detail/S000001766482)
 - 공식 문서: https://dev.mysql.com/doc/
 
 ---
