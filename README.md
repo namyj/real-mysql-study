@@ -1,4 +1,4 @@
-p# 📌 SQL 스터디 - Real MySQL
+# 📌 SQL 스터디 - Real MySQL
 
 
 ## 소개
